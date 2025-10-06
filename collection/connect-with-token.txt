@@ -1,0 +1,1 @@
+["CONNECT\naccept-version:1.1,1.0\nAuthorization:Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImFrIjoiMTc1OTczNTg2MzUwNSIsImV4cCI6MTc1OTgyMjI2MywiYXV0aCI6W10sImlhdCI6MTc1OTczNTg2M30.gQrb3piweDSZmCUhrUG3Z154_-zcKEW9WyybOR6-vH55n3zZfjXCY9I0saDeDKFcY340VhC510QVV6adR7jPag\nheart-beat:10000,10000\n\n\u0000"]

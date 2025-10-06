@@ -1,0 +1,1 @@
+["SEND\ndestination:/app/stream/create\n\n{\"truckId\":10,\"sourceFormat\":\"P480\",\"videoRequestType\":\"INSIDE\"}\n\n\u0000"]
